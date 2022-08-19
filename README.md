@@ -3,7 +3,7 @@
 
 ``cd email``
 
-``mkdir dump``
+``mkdir email``
 
 ``chmod +x Email.py``
 
