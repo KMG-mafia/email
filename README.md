@@ -3,8 +3,6 @@
 
 ``cd email``
 
-``mkdir email``
+``chmod +x email.sh``
 
-``chmod +x Email.py``
-
-``python Email.py``
+``./email.sh``
